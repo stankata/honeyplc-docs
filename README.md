@@ -2,7 +2,8 @@
 
 ## HoneyPLC repo changes
 
-This repo changes aims to provide clearer installation and configuration instructions. That's all. The HoneyPLC code is not changed. Cheers, SI.
+WORK IN PROGRESS
+This repo changes aims to provide clearer installation and configuration instructions. That's all. The HoneyPLC code is not changed. Cheers, S.
 
 ## Overview
 
