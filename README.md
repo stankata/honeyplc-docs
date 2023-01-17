@@ -1,8 +1,8 @@
 # HoneyPLC
 
-## Fork changes
+## HoneyPLC repo changes
 
-This fork aims to provide clearer installationa and configuration instructions. That's all. The HoneyPLC code is not changed. Cheers.
+This repo changes aims to provide clearer installation and configuration instructions. That's all. The HoneyPLC code is not changed. Cheers, SI.
 
 ## Overview
 
