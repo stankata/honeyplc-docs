@@ -1,5 +1,9 @@
 # HoneyPLC
 
+## Fork changes
+
+This fork aims to provide clearer installationa and configuration instructions. That's all. The HoneyPLC code is not changed. Cheers.
+
 ## Overview
 
 HoneyPLC is a high interaction PLC honeypot designed to simulate multiple PLC models from different vendors. It can log S7comm interactions and can store Ladder Logic programs injected by an attacker. It can also log SNMP get requests and HTTP login attempts.
